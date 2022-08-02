@@ -1,1 +1,1 @@
-# namier-personal0challenges
+# namier-personal-challenges
